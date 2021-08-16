@@ -86,7 +86,7 @@ source $ZSH/oh-my-zsh.sh
 # ==== User configuration
 # ===
 # === fix file permission ==
-ZSH_DISABLE_COMPFIX=true
+ZSH_DISABLE_COMPFIX="true"
 
 # === PATH ===
 # export MANPATH="/usr/local/man:$MANPATH"
