@@ -1,0 +1,46 @@
+// Settings in here override those in "Default/Preferences.sublime-settings",
+// and are overridden in turn by syntax-specific settings.
+{
+	// These settings control the size of the caret
+	"caret_extra_width": 3,
+	"caret_extra_top": 2,
+	"caret_extra_bottom": 2,
+
+	// Additional spacing at the bottom of each line
+	"line_padding_bottom": 1,
+	"line_paddng_top": 1,
+
+
+	// Show folders in the side bar in bold
+	"bold_folder_labels": true,
+
+
+
+	// ======================
+	// ===== appearence =====
+	// ======================
+	// theme and colorsheme
+	"theme": "Default Dark.sublime-theme",
+	"color_scheme": "Packages/Gruvbox Dark/gruvbox.tmTheme",
+
+	// line numbers
+	"highlight_line": true,
+	"relative_line_numbers": true,
+
+	// fonts
+	// "font_face": "SauceCodePro Nerd Font",
+	"font_face": "Consolas",
+	"font_size": 16,
+
+	
+	"ignored_packages":
+	[
+		"Vintage",
+	],
+
+
+
+	"scroll_context_lines": 5,
+
+
+}
