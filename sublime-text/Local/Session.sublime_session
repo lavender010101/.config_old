@@ -5,19 +5,23 @@
 		"/home/lavender010101/Documents/study-notes/Java/JavaSE"
 	],
 	"last_version": 4113,
-	"last_window_id": 33,
+	"last_window_id": 35,
 	"log_indexing": false,
 	"settings":
 	{
 		"new_window_full_screen": false,
-		"new_window_height": 600.0,
-		"new_window_maximized": true,
+		"new_window_height": 670.0,
+		"new_window_maximized": false,
 		"new_window_settings":
 		{
 			"auto_complete":
 			{
 				"selected_items":
 				[
+					[
+						"sy",
+						"System"
+					]
 				]
 			},
 			"build_system_choices":
@@ -74,6 +78,11 @@
 			},
 			"file_history":
 			[
+				"/home/lavender010101/Documents/Snippets/tmp/test.java",
+				"/home/lavender010101/Documents/Snippets/tmp/StringMethods.java",
+				"/home/lavender010101/Documents/Snippets/tmp/ThreadMethods.java",
+				"/home/lavender010101/.config/sublime-text/Packages/User/WakaTime.sublime-settings",
+				"/home/lavender010101/.config/sublime-text/Packages/WakaTime/WakaTime.sublime-settings",
 				"/home/lavender010101/.config/sublime-text/Packages/User/Preferences.sublime-settings",
 				"/home/lavender010101/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
 				"/home/lavender010101/.config/sublime-text/Packages/Package Control.sublime-package",
@@ -173,14 +182,14 @@
 			"show_minimap": true,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": false,
+			"side_bar_visible": true,
 			"side_bar_width": 250.0,
 			"status_bar_visible": true,
 			"template_settings":
 			{
 			}
 		},
-		"new_window_width": 800.0
+		"new_window_width": 1272.0
 	},
 	"windows":
 	[
@@ -189,49 +198,14 @@
 			{
 				"selected_items":
 				[
+					[
+						"sy",
+						"System"
+					]
 				]
 			},
 			"buffers":
 			[
-				{
-					"contents": "",
-					"settings":
-					{
-						"buffer_size": 0,
-						"line_ending": "Unix"
-					},
-					"undo_stack":
-					[
-						[
-							15,
-							3,
-							"transpose",
-							null,
-							"BgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
-						],
-						[
-							16,
-							1,
-							"transpose",
-							null,
-							"AgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-							"AQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/"
-						]
-					]
-				},
-				{
-					"file": "/home/lavender010101/Documents/Snippets/tmp/ThreadMethods.java",
-					"settings":
-					{
-						"buffer_size": 803,
-						"encoding": "UTF-8",
-						"line_ending": "Unix"
-					},
-					"undo_stack":
-					[
-					]
-				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -292,6 +266,11 @@
 			],
 			"file_history":
 			[
+				"/home/lavender010101/Documents/Snippets/tmp/test.java",
+				"/home/lavender010101/Documents/Snippets/tmp/StringMethods.java",
+				"/home/lavender010101/Documents/Snippets/tmp/ThreadMethods.java",
+				"/home/lavender010101/.config/sublime-text/Packages/User/WakaTime.sublime-settings",
+				"/home/lavender010101/.config/sublime-text/Packages/WakaTime/WakaTime.sublime-settings",
 				"/home/lavender010101/.config/sublime-text/Packages/User/Preferences.sublime-settings",
 				"/home/lavender010101/.config/sublime-text/Packages/Default/Preferences.sublime-settings",
 				"/home/lavender010101/.config/sublime-text/Packages/Package Control.sublime-package",
@@ -353,69 +332,6 @@
 				{
 					"sheets":
 					[
-						{
-							"buffer": 0,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 0,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										0,
-										0
-									]
-								],
-								"settings":
-								{
-									"auto_name": "",
-									"git_gutter_is_enabled": false,
-									"syntax": "Packages/Text/Plain text.tmLanguage"
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 1,
-							"stack_multiselect": false,
-							"type": "text"
-						},
-						{
-							"buffer": 1,
-							"file": "/home/lavender010101/Documents/Snippets/tmp/ThreadMethods.java",
-							"selected": true,
-							"semi_transient": false,
-							"settings":
-							{
-								"buffer_size": 803,
-								"regions":
-								{
-								},
-								"selection":
-								[
-									[
-										563,
-										563
-									]
-								],
-								"settings":
-								{
-									"git_gutter_is_enabled": true,
-									"syntax": "Packages/Java/Java.sublime-syntax",
-									"tab_size": 4,
-									"translate_tabs_to_spaces": false
-								},
-								"translation.x": 0.0,
-								"translation.y": 0.0,
-								"zoom_level": 1.0
-							},
-							"stack_index": 0,
-							"stack_multiselect": false,
-							"type": "text"
-						}
 					]
 				}
 			],
@@ -455,7 +371,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,1,0,0,0,556,237,1356,837,1920,1080,0",
+			"position": "0,0,0,0,0,640,26,1912,696,1920,1080,0",
 			"project": "",
 			"replace":
 			{
@@ -496,7 +412,7 @@
 			"show_minimap": true,
 			"show_open_files": false,
 			"show_tabs": true,
-			"side_bar_visible": false,
+			"side_bar_visible": true,
 			"side_bar_width": 250.0,
 			"status_bar_visible": true,
 			"template_settings":

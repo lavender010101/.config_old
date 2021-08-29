@@ -7,10 +7,13 @@
 	[
 		"A File Icon",
 		"Emmet",
+		"FileHeader",
 		"GitGutter",
 		"gruvbox",
 		"Gruvbox Dark",
 		"Package Control",
+		"SideBarEnhancements",
+		"SyncedSideBar",
 		"WakaTime",
 	],
 	"channels": [
