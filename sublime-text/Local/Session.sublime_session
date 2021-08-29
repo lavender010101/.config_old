@@ -5,12 +5,12 @@
 		"/home/lavender010101/Documents/study-notes/Java/JavaSE"
 	],
 	"last_version": 4113,
-	"last_window_id": 35,
+	"last_window_id": 39,
 	"log_indexing": false,
 	"settings":
 	{
 		"new_window_full_screen": false,
-		"new_window_height": 670.0,
+		"new_window_height": 1022.0,
 		"new_window_maximized": false,
 		"new_window_settings":
 		{
@@ -172,12 +172,16 @@
 			},
 			"select_symbol":
 			{
-				"height": 0.0,
+				"height": 149.0,
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"",
+						"TraversalEven"
+					]
 				],
-				"width": 0.0
+				"width": 592.0
 			},
 			"show_minimap": true,
 			"show_open_files": false,
@@ -189,7 +193,7 @@
 			{
 			}
 		},
-		"new_window_width": 1272.0
+		"new_window_width": 952.0
 	},
 	"windows":
 	[
@@ -206,6 +210,18 @@
 			},
 			"buffers":
 			[
+				{
+					"file": "/home/lavender010101/Documents/Snippets/tmp/MultiThreads.java",
+					"settings":
+					{
+						"buffer_size": 471,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+					]
+				}
 			],
 			"build_system": "",
 			"build_system_choices":
@@ -332,6 +348,86 @@
 				{
 					"sheets":
 					[
+						{
+							"buffer": 0,
+							"file": "/home/lavender010101/Documents/Snippets/tmp/MultiThreads.java",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 471,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										121,
+										121
+									]
+								],
+								"settings":
+								{
+									"c_time":
+									[
+										128,
+										3,
+										99,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										100,
+										97,
+										116,
+										101,
+										116,
+										105,
+										109,
+										101,
+										10,
+										113,
+										0,
+										67,
+										10,
+										7,
+										229,
+										8,
+										27,
+										0,
+										18,
+										57,
+										11,
+										158,
+										77,
+										113,
+										1,
+										133,
+										113,
+										2,
+										82,
+										113,
+										3,
+										46
+									],
+									"git_gutter_is_enabled": true,
+									"syntax": "Packages/Java/Java.sublime-syntax",
+									"tab_size": 4,
+									"translate_tabs_to_spaces": false
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
 					]
 				}
 			],
@@ -371,7 +467,7 @@
 				"height": 0.0
 			},
 			"pinned_build_system": "",
-			"position": "0,0,0,0,0,640,26,1912,696,1920,1080,0",
+			"position": "0,0,0,0,0,0,26,952,1048,1920,1080,0",
 			"project": "",
 			"replace":
 			{
@@ -398,12 +494,16 @@
 			},
 			"select_symbol":
 			{
-				"height": 0.0,
+				"height": 149.0,
 				"last_filter": "",
 				"selected_items":
 				[
+					[
+						"",
+						"TraversalEven"
+					]
 				],
-				"width": 0.0
+				"width": 592.0
 			},
 			"selected_group": 0,
 			"settings":
