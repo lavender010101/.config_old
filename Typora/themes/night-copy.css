@@ -92,7 +92,7 @@ select {
 	font-family: "Helvetica Neue", Helvetica, Arial, "Segoe UI Emoji", sans-serif;
 }
 textarea {
-	font-size: 16px;
+	/* font-size: 16px; */
 	font-family: "Microsoft Yahei", Consolas, "SauceCodePro Nerd Font";
 	/* 
  font-family: "Helvetica Neue", Helvetica, Arial, "Segoe UI Emoji", sans-serif;
@@ -341,7 +341,7 @@ var {
 
 code {
 	/* Single line codes */
-	font-family: Consolas, "Microsoft Yahei", Arial;
+	font-family: "Microsoft Yahei", Consolas, Arial;
 	color: #a688b1;
 	font-style: normal;
 }
